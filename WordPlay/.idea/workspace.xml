@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb77302d-7653-4113-b44d-416f36fcb04e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CaeserCipher/mysteryTwoKeysQuiz.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CaeserCipher/smallHamlet.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CaeserCipher/src/CaesarCipherTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CaeserCipher/src/CaeserCipher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CaeserCipher/src/TestCaesarCipher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CaeserCipher/src/TestCaesarCipherTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/errors.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lotsOfWords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manyWords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/romeo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smallHamlet.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaesarBreaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaesarCipher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordLengths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WordPlay.iml" beforeDir="false" afterPath="$PROJECT_DIR$/WordPlay.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WordPlay/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WordPlay/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WordPlay/WordPlay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WordPlay/WordPlay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="bb77302d-7653-4113-b44d-416f36fcb04e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -180,7 +160,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591195091381" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591195475782" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/courserajava.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -226,12 +206,12 @@
       <option name="presentableId" value="Default" />
       <updated>1590958435099</updated>
       <workItem from="1590958440140" duration="10960000" />
-      <workItem from="1591046769122" duration="4320000" />
+      <workItem from="1591046769122" duration="4355000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15280000" />
+    <option name="totallyTimeSpent" value="15315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />

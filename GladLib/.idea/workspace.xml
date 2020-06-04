@@ -1,8 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d85fb945-987d-4e94-b0ad-e6ff3c74c5af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f5fa0c47-820e-4743-953d-3950678c45f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/adjective.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/animal.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/color.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/country.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fruit.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/madtemplate.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/madtemplate2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/madtemplate3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/name.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/noun.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/timeframe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/verb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/adjective.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/animal.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/color.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/country.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/fruit.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/madtemplate.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/madtemplate2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/madtemplate3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/name.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/noun.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/timeframe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/verb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GladLib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordFrequencies/likeit.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordFrequencies/macbethSmall.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordFrequencies/src/CharactersInPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordFrequencies/src/WordFrequencies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordFrequencies/testwordfreqs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaeserCipher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CaeserCipher/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordPlay/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/../WordPlay/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordPlay/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../WordPlay/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WordPlay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordPlay/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,73 +46,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="60">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysteryTwoKeysQuiz.txt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GladLib.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="209">
+              <caret line="131" column="46" lean-forward="true" selection-start-line="131" selection-start-column="46" selection-end-line="131" selection-end-column="46" />
+              <folding>
+                <element signature="e#2951#2959#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CaeserCipher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" selection-start-line="27" selection-end-line="31" selection-end-column="5" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/datalong/name.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TestCaesarCipher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-423">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/data/madtemplate2.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CaesarCipherTwo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="37" column="25" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TestCaesarCipherTwo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="47" column="45" lean-forward="true" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/smallHamlet.txt">
+        <entry file="file://$PROJECT_DIR$/data/name.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>makeStory</find>
+      <find>processWord</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -88,12 +96,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CaeserCipher.java" />
-        <option value="$PROJECT_DIR$/src/TestCaesarCipher.java" />
-        <option value="$PROJECT_DIR$/src/CaesarCipherTwo.java" />
-        <option value="$PROJECT_DIR$/src/TestCaesarCipherTwo.java" />
-        <option value="$PROJECT_DIR$/mysteryTwoKeysQuiz" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/data/madtemplate2.txt" />
+        <option value="$PROJECT_DIR$/src/GladLib.java" />
       </list>
     </option>
   </component>
@@ -113,12 +118,22 @@
         <subPane>
           <expand>
             <path>
-              <item name="CaeserCipher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CaeserCipher" type="462c0819:PsiDirectoryNode" />
+              <item name="GladLib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GladLib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CaeserCipher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CaeserCipher" type="462c0819:PsiDirectoryNode" />
+              <item name="GladLib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GladLib" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GladLib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GladLib" type="462c0819:PsiDirectoryNode" />
+              <item name="datalong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GladLib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GladLib" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -129,20 +144,16 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591195520514" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/courserajava.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
@@ -161,7 +172,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="CaeserCipher" />
+      <module name="GladLib" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -180,46 +191,39 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d85fb945-987d-4e94-b0ad-e6ff3c74c5af" name="Default Changelist" comment="" />
-      <created>1591046699372</created>
+      <changelist id="f5fa0c47-820e-4743-953d-3950678c45f8" name="Default Changelist" comment="" />
+      <created>1591220832844</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1591046699372</updated>
-      <workItem from="1591046704040" duration="5831000" />
+      <updated>1591220832844</updated>
+      <workItem from="1591220835820" duration="1342000" />
     </task>
-    <task id="LOCAL-00001" summary="add cipher projects">
-      <created>1591195496181</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1591195496181</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5831000" />
+    <option name="totallyTimeSpent" value="1342000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32963374" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32963374" />
-      <window_info anchor="bottom" id="Messages" weight="0.32963374" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32963374" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32963374" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -238,53 +242,30 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="add cipher projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="add cipher projects" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/smallHamlet.txt">
+    <entry file="file://$PROJECT_DIR$/data/name.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CaeserCipher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" selection-start-line="27" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CaesarCipherTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="37" column="25" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestCaesarCipher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-423">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysteryTwoKeysQuiz.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestCaesarCipherTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="47" column="45" lean-forward="true" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/data/madtemplate2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="60">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datalong/name.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GladLib.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="131" column="46" lean-forward="true" selection-start-line="131" selection-start-column="46" selection-end-line="131" selection-end-column="46" />
+          <folding>
+            <element signature="e#2951#2959#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -340,7 +321,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>CaeserCipher</last-edited>
+          <last-edited>GladLib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

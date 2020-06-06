@@ -2,8 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb77302d-7653-4113-b44d-416f36fcb04e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CodonCount/caesar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodonCount/dnaMystery1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodonCount/dnaMystery2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodonCount/smalldna.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodonCount/src/CodonCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GladLib/src/GladLibMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordFrequencies/errors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordsInFiles/caesar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordsInFiles/confucius.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordsInFiles/errors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordsInFiles/hamlet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordsInFiles/likeit.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordsInFiles/macbeth.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordsInFiles/romeo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordsInFiles/src/WordsInFiles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CaeserCipher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CaeserCipher/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaeserCipher/out/production/CaeserCipher/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CaeserCipher/out/production/CaeserCipher/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaeserCipher/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CaeserCipher/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GladLib/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GladLib/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GladLib/out/production/GladLib/GladLib.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GladLib/out/production/GladLib/GladLib.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordFrequencies/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordFrequencies/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordFrequencies/out/production/WordFrequencies/CharactersInPlay.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WordFrequencies/out/production/WordFrequencies/CharactersInPlay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordFrequencies/out/production/WordFrequencies/WordFrequencies.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WordFrequencies/out/production/WordFrequencies/WordFrequencies.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordFrequencies/src/CharactersInPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WordFrequencies/src/CharactersInPlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordFrequencies/src/WordFrequencies.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WordFrequencies/src/WordFrequencies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f89db7bf73e07e7e43ae93ff9a92a85c9344810" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f89db7bf73e07e7e43ae93ff9a92a85c9344810" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WordPlay/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WordPlay/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,20 +42,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/WordLengths.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="540">
+              <caret line="36" column="63" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -62,7 +90,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/romeo.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="784">
+            <state relative-caret-position="53520">
               <caret line="3568" selection-start-line="3568" selection-end-line="3568" />
             </state>
           </provider>
@@ -76,7 +104,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CaesarCipher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="645">
               <caret line="43" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
@@ -85,7 +113,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CaesarBreaker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
+            <state relative-caret-position="720">
               <caret line="48" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
@@ -123,8 +151,8 @@
         <option value="$PROJECT_DIR$/lotsOfWords.txt" />
         <option value="$PROJECT_DIR$/src/CaesarBreaker.java" />
         <option value="$PROJECT_DIR$/errors.txt" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/manyWords.txt" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/WordLengths.java" />
       </list>
     </option>
@@ -141,6 +169,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,7 +186,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,17 +238,19 @@
       <updated>1590958435099</updated>
       <workItem from="1590958440140" duration="10960000" />
       <workItem from="1591046769122" duration="4401000" />
+      <workItem from="1591385352030" duration="13000" />
+      <workItem from="1591392613316" duration="458000" />
+      <workItem from="1591456610342" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15361000" />
+    <option name="totallyTimeSpent" value="15842000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25235197" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26065302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -300,51 +330,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WordPlay.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lotsOfWords.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5359" selection-start-column="5359" selection-end-column="5359" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/romeo.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="784">
-          <caret line="3568" selection-start-line="3568" selection-end-line="3568" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/smallHamlet.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/errors.txt">
+    <entry file="file://$PROJECT_DIR$/src/WordLengths.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30750">
-          <caret line="2050" selection-start-line="2050" selection-end-line="2050" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CaesarBreaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CaesarCipher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="540">
+          <caret line="36" column="63" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="63" />
         </state>
       </provider>
     </entry>
@@ -355,12 +351,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WordLengths.java">
+    <entry file="file://$PROJECT_DIR$/errors.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="30750">
+          <caret line="2050" selection-start-line="2050" selection-end-line="2050" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lotsOfWords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5359" selection-start-column="5359" selection-end-column="5359" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/romeo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53520">
+          <caret line="3568" selection-start-line="3568" selection-end-line="3568" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smallHamlet.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CaesarCipher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CaesarBreaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WordPlay.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

@@ -28,7 +28,7 @@ public class CharactersInPlay {
         characterNames.clear();
         freqs.clear();
 
-        FileResource resource = new FileResource("likeit.txt");
+        FileResource resource = new FileResource("errors.txt");
         for (String line : resource.lines()) {
             if (line.isEmpty())
                 continue;
@@ -38,13 +38,12 @@ public class CharactersInPlay {
                 continue;
 
             String characterName = line.substring(0, periodIndex);
-            update(characterName.trim() );
+            update(characterName.trim());
         }
 
     }
 
-    private void charactersWithNumParts(int num1 ,int num2)
-    {
+    private void charactersWithNumParts(int num1, int num2) {
         for (int i = 0; i < freqs.size(); i++) {
             Integer freq = freqs.get(i);
             if (freq >= num1 && freq < num2) {
@@ -60,7 +59,8 @@ public class CharactersInPlay {
         for (int i = 0; i < characterNames.size(); i++) {
             String characterName = characterNames.get(i);
             Integer freq = freqs.get(i);
-            System.out.println(characterName + " " + freq);
+            if (freq != 1)
+                System.out.println(characterName + " " + freq);
         }
 
         charactersWithNumParts(10,15);

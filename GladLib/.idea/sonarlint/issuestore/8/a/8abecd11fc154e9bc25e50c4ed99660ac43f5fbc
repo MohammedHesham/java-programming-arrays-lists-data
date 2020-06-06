@@ -1,0 +1,11 @@
+
+9squid:S1643,"Use a StringBuilder instead.(¼ºÑ48æâøÒ¨.
+9squid:S1643'"Use a StringBuilder instead.(¼ºÑ48æâøÒ¨.
+bsquid:UnusedPrivateMethod""1Remove this unused private "fromTemplate" method.(±†Òµøÿÿÿÿ8æâøÒ¨.
+esquid:UnusedPrivateMethodr"9Remove this unused private "totalWordsConsidered" method.(ñû·8Ä¬ìÒ¨.
+1squid:S1220""Move this file to a named package.
+dsquid:UnusedPrivateMethod"9Remove this unused private "initializeFromSource" method.(¦¡Ş8·á‰¨.
+wsquid:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(œœÕ¼8¬Ûå‰¨.
+Wsquid:S2864k"4Iterate over the "entrySet" instead of the "keySet".(Â¾ŠÂÿÿÿÿÿ8³öŠ¨.
+csquid:S30273"FPut single-quotes around '<' to use the faster "indexOf(char)" method.(§Ïo8—ôÒ¨.
+isquid:S30274"FPut single-quotes around '>' to use the faster "indexOf(char)" method.(Ë°òØşÿÿÿÿ8—ôÒ¨.

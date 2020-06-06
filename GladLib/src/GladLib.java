@@ -118,11 +118,13 @@ public class GladLib {
             URLResource resource = new URLResource(source);
             for (String word : resource.words()) {
                 story = story + processWord(word) + " ";
+                usedWords.add(word);
             }
         } else {
             FileResource resource = new FileResource(source);
             for (String word : resource.words()) {
                 story = story + processWord(word) + " ";
+                usedWords.add(word);
             }
         }
         return story;

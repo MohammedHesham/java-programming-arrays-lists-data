@@ -13,8 +13,8 @@ public class Main {
 //        WordLengths wordLengths = new WordLengths();
 //        wordLengths.testCountWordLengths();
 //
-        CaesarBreaker caesarBreaker=new CaesarBreaker();
-        caesarBreaker.testDecryptTwoKeys();
+//        CaesarBreaker caesarBreaker=new CaesarBreaker();
+//        caesarBreaker.testDecryptTwoKeys();
 
         WordLengths wordLengths=new WordLengths();
         wordLengths.testCountWordLengths();

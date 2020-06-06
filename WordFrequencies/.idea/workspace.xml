@@ -2,15 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a229d85-dbe2-4a06-a6db-467aaf3d546c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/likeit.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/macbethSmall.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharactersInPlay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordFrequencies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testwordfreqs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodonCount/caesar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodonCount/dnaMystery1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodonCount/dnaMystery2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodonCount/smalldna.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodonCount/src/CodonCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GladLib/src/GladLibMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/errors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordsInFiles/brief1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordsInFiles/brief2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordsInFiles/brief3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordsInFiles/brief4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordsInFiles/caesar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordsInFiles/confucius.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordsInFiles/errors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordsInFiles/hamlet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordsInFiles/likeit.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordsInFiles/macbeth.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordsInFiles/romeo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordsInFiles/src/WordsInFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaeserCipher/.idea/sonarlint/issuestore/1/b/1b08b5c8397455143b72fb1e848c1e63e269156b" beforeDir="false" afterPath="$PROJECT_DIR$/../CaeserCipher/.idea/sonarlint/issuestore/1/b/1b08b5c8397455143b72fb1e848c1e63e269156b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaeserCipher/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/../CaeserCipher/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CaeserCipher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CaeserCipher/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaeserCipher/out/production/CaeserCipher/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CaeserCipher/out/production/CaeserCipher/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaeserCipher/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CaeserCipher/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GladLib/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GladLib/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GladLib/out/production/GladLib/GladLib.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GladLib/out/production/GladLib/GladLib.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GladLib/src/GladLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GladLib/src/GladLib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/18826b0151225151a4aab1dc6d2ca96b96a6555a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/18826b0151225151a4aab1dc6d2ca96b96a6555a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WordFrequencies/CharactersInPlay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WordFrequencies/CharactersInPlay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WordFrequencies/WordFrequencies.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WordFrequencies/WordFrequencies.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CharactersInPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CharactersInPlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WordFrequencies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordFrequencies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordPlay/.idea/sonarlint/issuestore/1/f/1f89db7bf73e07e7e43ae93ff9a92a85c9344810" beforeDir="false" afterPath="$PROJECT_DIR$/../WordPlay/.idea/sonarlint/issuestore/1/f/1f89db7bf73e07e7e43ae93ff9a92a85c9344810" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WordPlay/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/../WordPlay/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WordPlay/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../WordPlay/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WordPlay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordPlay/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordPlay/out/production/WordPlay/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WordPlay/out/production/WordPlay/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordPlay/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WordPlay/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+            <state relative-caret-position="90">
+              <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -33,17 +64,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/likeit.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
+            <state relative-caret-position="43830">
               <caret line="2922" selection-start-line="2922" selection-end-line="2922" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/WordFrequencies.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+            <state relative-caret-position="495">
+              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,11 +82,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/errors.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30750">
+              <caret line="2050" selection-start-line="2050" selection-end-line="2050" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CharactersInPlay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="669">
-              <caret line="65" column="38" selection-start-line="65" selection-start-column="38" selection-end-line="65" selection-end-column="38" />
+            <state relative-caret-position="305">
+              <caret line="65" column="36" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,6 +140,7 @@
         <option value="$PROJECT_DIR$/testwordfreqs.txt" />
         <option value="$PROJECT_DIR$/macbethSmall.txt" />
         <option value="$PROJECT_DIR$/likeit.txt" />
+        <option value="$PROJECT_DIR$/errors.txt" />
         <option value="$PROJECT_DIR$/src/WordFrequencies.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/CharactersInPlay.java" />
@@ -117,6 +158,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,14 +175,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591219735548" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591470791828" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/courserajava.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -186,45 +227,49 @@
       <option name="presentableId" value="Default" />
       <updated>1591206878118</updated>
       <workItem from="1591206881245" duration="6032000" />
+      <workItem from="1591308099312" duration="1679000" />
+      <workItem from="1591456605037" duration="34000" />
+      <workItem from="1591459795061" duration="1795000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6032000" />
+    <option name="totallyTimeSpent" value="9540000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.257886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="SonarLint" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.56159824" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39955604" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40399557" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4517203" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="SonarLint" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +294,23 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/likeit.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43830">
+          <caret line="2922" selection-start-line="2922" selection-end-line="2922" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/errors.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30750">
+          <caret line="2050" selection-start-line="2050" selection-end-line="2050" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/macbethSmall.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/testwordfreqs.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -256,37 +318,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/macbethSmall.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/likeit.txt">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="2922" selection-start-line="2922" selection-end-line="2922" />
+        <state relative-caret-position="90">
+          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WordFrequencies.java">
+    <entry file="file://$PROJECT_DIR$/src/CharactersInPlay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        <state relative-caret-position="305">
+          <caret line="65" column="36" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/WordFrequencies.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CharactersInPlay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="669">
-          <caret line="65" column="38" selection-start-line="65" selection-start-column="38" selection-end-line="65" selection-end-column="38" />
+        <state relative-caret-position="495">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

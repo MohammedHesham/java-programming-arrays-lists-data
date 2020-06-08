@@ -2,46 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5fa0c47-820e-4743-953d-3950678c45f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CodonCount/caesar.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodonCount/dnaMystery1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodonCount/dnaMystery2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodonCount/smalldna.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodonCount/src/CodonCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GladLibMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordFrequencies/errors.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordsInFiles/brief1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordsInFiles/brief2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordsInFiles/brief3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordsInFiles/brief4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordsInFiles/caesar.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordsInFiles/confucius.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordsInFiles/errors.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordsInFiles/hamlet.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordsInFiles/likeit.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordsInFiles/macbeth.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordsInFiles/romeo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordsInFiles/src/WordsInFiles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaeserCipher/.idea/sonarlint/issuestore/1/b/1b08b5c8397455143b72fb1e848c1e63e269156b" beforeDir="false" afterPath="$PROJECT_DIR$/../CaeserCipher/.idea/sonarlint/issuestore/1/b/1b08b5c8397455143b72fb1e848c1e63e269156b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaeserCipher/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/../CaeserCipher/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaeserCipher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CaeserCipher/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaeserCipher/out/production/CaeserCipher/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CaeserCipher/out/production/CaeserCipher/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaeserCipher/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CaeserCipher/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GladLib/GladLib.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GladLib/GladLib.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GladLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GladLib.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WordFrequencies/.idea/sonarlint/issuestore/1/8/18826b0151225151a4aab1dc6d2ca96b96a6555a" beforeDir="false" afterPath="$PROJECT_DIR$/../WordFrequencies/.idea/sonarlint/issuestore/1/8/18826b0151225151a4aab1dc6d2ca96b96a6555a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WordFrequencies/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/../WordFrequencies/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WordFrequencies/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../WordFrequencies/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WordFrequencies/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordFrequencies/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WordFrequencies/out/production/WordFrequencies/CharactersInPlay.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WordFrequencies/out/production/WordFrequencies/CharactersInPlay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WordFrequencies/out/production/WordFrequencies/WordFrequencies.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WordFrequencies/out/production/WordFrequencies/WordFrequencies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WordFrequencies/src/CharactersInPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WordFrequencies/src/CharactersInPlay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WordFrequencies/src/WordFrequencies.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WordFrequencies/src/WordFrequencies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WordPlay/.idea/sonarlint/issuestore/1/f/1f89db7bf73e07e7e43ae93ff9a92a85c9344810" beforeDir="false" afterPath="$PROJECT_DIR$/../WordPlay/.idea/sonarlint/issuestore/1/f/1f89db7bf73e07e7e43ae93ff9a92a85c9344810" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WordPlay/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/../WordPlay/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WordPlay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordPlay/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WordPlay/out/production/WordPlay/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WordPlay/out/production/WordPlay/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WordPlay/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WordPlay/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodonCount/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodonCount/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordsInFiles/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordsInFiles/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,20 +23,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GladLib.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1860">
+            <state relative-caret-position="174">
               <caret line="126" column="36" selection-start-line="126" selection-start-column="36" selection-end-line="126" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GladLibMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="164">
+              <caret line="73" column="12" selection-start-line="73" selection-start-column="12" selection-end-line="73" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,8 +83,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/data/madtemplate2.txt" />
-        <option value="$PROJECT_DIR$/src/GladLibMap.java" />
         <option value="$PROJECT_DIR$/src/GladLib.java" />
+        <option value="$PROJECT_DIR$/src/GladLibMap.java" />
       </list>
     </option>
   </component>
@@ -137,8 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,6 +115,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -215,17 +177,17 @@
       <workItem from="1591305751617" duration="2039000" />
       <workItem from="1591385623048" duration="156000" />
       <workItem from="1591457653461" duration="2480000" />
+      <workItem from="1591470806608" duration="759000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6675000" />
+    <option name="totallyTimeSpent" value="7434000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.257886" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26065302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -239,7 +201,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32963374" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32963374" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -277,20 +239,20 @@
     <entry file="file://$PROJECT_DIR$/data/name.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GladLibMap.java">
+    <entry file="file://$PROJECT_DIR$/src/GladLib.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="174">
+          <caret line="126" column="36" selection-start-line="126" selection-start-column="36" selection-end-line="126" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GladLib.java">
+    <entry file="file://$PROJECT_DIR$/src/GladLibMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1860">
-          <caret line="126" column="36" selection-start-line="126" selection-start-column="36" selection-end-line="126" selection-end-column="36" />
+        <state relative-caret-position="164">
+          <caret line="73" column="12" selection-start-line="73" selection-start-column="12" selection-end-line="73" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

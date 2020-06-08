@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13c8c9ea-a958-4b3d-8cf7-d37bd9d468a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LogAnalyzer/short-test_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LogAnalyzer/src/LogAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LogAnalyzer/src/LogEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LogAnalyzer/src/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LogAnalyzer/src/WebLogParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LogAnalyzer/weblog-short_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LogAnalyzer/weblog1_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LogAnalyzer/weblog2_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LogAnalyzer/weblog3-short_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodonCount/.idea/sonarlint/issuestore/7/2/723e642b62084f009a0d98bb08d08db98fb3fbc6" beforeDir="false" afterPath="$PROJECT_DIR$/../CodonCount/.idea/sonarlint/issuestore/7/2/723e642b62084f009a0d98bb08d08db98fb3fbc6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodonCount/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodonCount/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GladLib/.idea/sonarlint/issuestore/0/3/03a670eb4422f884373ca74ce4e9b6a93ba024bb" beforeDir="false" afterPath="$PROJECT_DIR$/../GladLib/.idea/sonarlint/issuestore/0/3/03a670eb4422f884373ca74ce4e9b6a93ba024bb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GladLib/.idea/sonarlint/issuestore/8/a/8abecd11fc154e9bc25e50c4ed99660ac43f5fbc" beforeDir="false" afterPath="$PROJECT_DIR$/../GladLib/.idea/sonarlint/issuestore/8/a/8abecd11fc154e9bc25e50c4ed99660ac43f5fbc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GladLib/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GladLib/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordsInFiles/.idea/sonarlint/issuestore/5/9/59ecc4b8baca5d1d192f93105199e564fe18403e" beforeDir="false" afterPath="$PROJECT_DIR$/../WordsInFiles/.idea/sonarlint/issuestore/5/9/59ecc4b8baca5d1d192f93105199e564fe18403e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordsInFiles/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordsInFiles/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/edu/duke/CaesarCipher.java" />
+        <option value="$PROJECT_DIR$/src/edu/duke/CaesarCracker.java" />
+        <option value="$PROJECT_DIR$/src/edu/duke/VigenereBreaker.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="1932" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/edu/duke" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="edu.duke.Main" />
+      <module name="VigenereCipher" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13c8c9ea-a958-4b3d-8cf7-d37bd9d468a5" name="Default Changelist" comment="" />
+      <created>1591641580190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591641580190</updated>
+      <workItem from="1591641582800" duration="111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="111000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/edu/duke/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/duke/dictionaries/Dutch">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/duke/CaesarCipher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/duke/CaesarCracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/duke/VigenereBreaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

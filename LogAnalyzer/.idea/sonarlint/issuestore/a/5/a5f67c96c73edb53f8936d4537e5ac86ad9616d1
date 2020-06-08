@@ -1,0 +1,12 @@
+
+squid:S1319V"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(¤ª” ûÿÿÿÿ8›ŒÈŞ¨.
+1squid:S1220""Move this file to a named package.
+Xsquid:S2864…"4Iterate over the "entrySet" instead of the "keySet".(´¸Æ—úÿÿÿÿ8„µÅß¨.
+Ssquid:S2864£"4Iterate over the "entrySet" instead of the "keySet".(¬µ—ç8²Ôß¨.
+squid:S1319"qThe type of the "dayIpsMap" object should be an interface such as "Map" rather than the implementation "HashMap".(¯’•8´†‡ß¨.
+Wsquid:S2864f"4Iterate over the "entrySet" instead of the "keySet".(â§ø©şÿÿÿÿ8ËæèŞ¨.
+squid:S1319n"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(¯·ÿıÿÿÿÿ8ĞÿŞ¨.
+squid:S1319Ÿ"oThe type of the "daysMap" object should be an interface such as "Map" rather than the implementation "HashMap".(ö—ğÕ8úÂÓß¨.
+Œsquid:S1319c"nThe type of the "counts" object should be an interface such as "Map" rather than the implementation "HashMap".(»‘íû8Õ…âŞ¨.
+squid:S1319“"nThe type of the "counts" object should be an interface such as "Map" rather than the implementation "HashMap".(÷ù¯œ8İ‚ÕŞ¨.
+Xsquid:S2864•"4Iterate over the "entrySet" instead of the "keySet".(â§ø©şÿÿÿÿ8‚àÙŞ¨.

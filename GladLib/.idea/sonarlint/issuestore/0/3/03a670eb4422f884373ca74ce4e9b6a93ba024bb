@@ -1,8 +1,8 @@
 
 bsquid:S3027X"FPut single-quotes around '>' to use the faster "indexOf(char)" method.(Ë°òØþÿÿÿÿ
-1squid:S1220""Move this file to a named package.
-2squid:S1643x"Use a StringBuilder instead.(¼ºÑ4
 Msquid:S1068"1Remove this unused "dataSourceURL" private field.(ÛðÞðøÿÿÿÿ
-2squid:S1643~"Use a StringBuilder instead.(¼ºÑ4
-\squid:S3027W"FPut single-quotes around '<' to use the faster "indexOf(char)" method.(§Ïo
+1squid:S1220""Move this file to a named package.
 qsquid:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(œœÕ¼
+\squid:S3027W"FPut single-quotes around '<' to use the faster "indexOf(char)" method.(§Ïo
+2squid:S1643x"Use a StringBuilder instead.(¼ºÑ4
+2squid:S1643~"Use a StringBuilder instead.(¼ºÑ4
